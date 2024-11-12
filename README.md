@@ -33,7 +33,7 @@ To track progress and effectiveness, we will monitor these metrics:
 - **Average Wait Time (AWT)**: Reduced wait times reflect improved queue and staffing efficiency.
 - **Customer Satisfaction Score (CSAT)**: Measures guest satisfaction improvements, validating the impact of targeted staff training and service quality enhancements.
 
-![Metrics](https://raw.githubusercontent.com/adedwiary/guest-experience/main/img/3.png)
+![Metrics](https://raw.githubusercontent.com/adedwiary/guest-experience/main/img/4.png)
 
 ## Why This Matters
 
