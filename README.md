@@ -1,8 +1,8 @@
 # Optimizing Guest Experience by Enhancing Customer Satisfaction at OverU Hotel
 
-This project addresses a critical guest experience issue at OverU Hotel: the low satisfaction rating of the check-in/check-out process. By improving the Net Promoter Score (NPS) in this area, OverU aims to not only increase customer satisfaction but also drive long-term loyalty, boosting overall hotel performance and reputation.
-
 ![Project Cover](https://raw.githubusercontent.com/adedwiary/guest-experience/main/img/cover.png)
+
+This project addresses a critical guest experience issue at OverU Hotel: the low satisfaction rating of the check-in/check-out process. By improving the Net Promoter Score (NPS) in this area, OverU aims to not only increase customer satisfaction but also drive long-term loyalty, boosting overall hotel performance and reputation.
 
 
 ## Project Background
