@@ -2,6 +2,9 @@
 
 This project addresses a critical guest experience issue at OverU Hotel: the low satisfaction rating of the check-in/check-out process. By improving the Net Promoter Score (NPS) in this area, OverU aims to not only increase customer satisfaction but also drive long-term loyalty, boosting overall hotel performance and reputation.
 
+![Project Cover](https://raw.githubusercontent.com/adedwiary/guest-experience/main/img/cover.png)
+
+
 ## Project Background
 
 OverU Hotel, a global hospitality company, values customer satisfaction as a core driver of business success. However, recent NPS surveys revealed that while guests rate amenities highly (4.2/5), the check-in and check-out experience lags significantly at 2.2/5. This project aims to identify actionable insights for transforming this essential part of the guest journey.
